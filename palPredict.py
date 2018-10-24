@@ -2,7 +2,7 @@ print("\nWELCOME TO MY ICE CREAM PALLET PREDICTOR!\n " * 4)
 #ask what product is being run
 product = input("What product are we going to run? (pints, halfs, or tubs) ")
 
-# !!NEED A BREAD FOR INCCORRECT INPUT!!
+# !!NEED A BREAK FOR INCCORRECT INPUT!!
 
 #ask how many gallons will be run
 gallons = input(f"How many gallons of {product} are we running? ")
