@@ -16,7 +16,7 @@ pintPal = pintLyr / 14
 #half calculations
 gal = int(gallons) * 168 #gallons to ounces
 halfs = gal // 56
-halfPk = halfs // 6
+halfPk = halfs // 4
 halfLyr = halfPk // 12
 halfPal = halfLyr / 11
 
